@@ -1,0 +1,14 @@
+{
+  "name": "q7-fetch-employees",
+  "version": "1.0.0",
+  "description": "Express and MongoDB backend to fetch employees",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.0.0"
+  }
+}
